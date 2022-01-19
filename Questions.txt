@@ -1,0 +1,7 @@
+1. Sequential() vs Functional() API? Do we need attributes of the Functional() API to improve performance?
+
+2. How do values given for the filters, kernel_size, strides, etc. affect the performance of the model?
+
+3. How do we choose the number of nodes to use for the Dense layer?
+
+4. Would it be good to use a Dropout layer to improve performance by reducing overfitting?
