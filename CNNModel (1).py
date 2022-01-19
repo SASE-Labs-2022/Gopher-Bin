@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[9]:
-
 
 import tensorflow as tf
 from tensorflow.keras import datasets, layers, models
@@ -21,24 +19,13 @@ data = tf.keras.datasets.cifar10
 train_data.shape
 
 
-# In[ ]:
-
-
 #list of cateogories to use in classification
 classes = []
 
 #scaling down images to grayscale
 train_images, test_images = train_images/255.0, test_images/255.0
 
-
-# In[ ]:
-
-
 #code to add -- data visualization -> examining the dataset
-
-
-# In[ ]:
-
 
 #creating convolutional layers
 model = models.Sequential()
@@ -56,3 +43,4 @@ model.add(layers.Flatten())
 model.Dense(100, activation="relu")
 model.Dense(10)
 
+#NEXT STEPS: compile, train, and test
