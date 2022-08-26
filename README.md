@@ -9,12 +9,12 @@ At the end of the academic year, SASE Labs had a demo symposium, where all SASE 
 
 ## Now, what is the GOPHER Bin?
 
-![closeup of the GOPHER bin](photos/IMG_5019.HEIC)
+![closeup of the GOPHER bin](photos/IMG_5019.JPG)
 With the goal of contributing to STEM efforts in combating environmental protection and pollution reduction, SASE Labs members designed, prototyped, and built a solution over the course of 15 weeks with a budget of $150. The 18 members were split into 3 subteams:
 
 ### Mechanic & Material Research (MMR)
 
-| ![MMR subteam listening to team meeting, with a few of their parts on the worktable](photos/IMG_4978.HEIC) |
+| ![MMR subteam listening to team meeting, with a few of their parts on the worktable](photos/IMG_4978.JPG) |
 | :--: |
 | **MMR subteam members adding finishing touches to some parts while attending full team meeting** |
 
@@ -22,7 +22,7 @@ This team was responsible for designing the infrastructure and functional design
 
 ### Motor
 
-| ![Motor subteam, 3 members, working on the synchronization code for the conveyor belt motors](photos/IMG_4976.HEIC) |
+| ![Motor subteam, 3 members, working on the synchronization code for the conveyor belt motors](photos/IMG_4976.JPG) |
 | :--: |
 | **Motor subteam members working on the code to sync motors** |
 
@@ -30,7 +30,7 @@ This team implemented the motor carriage, wired up & sautered the Raspberry pi, 
 
 ### Vision
 
-| ![Vision subteam, 6 members, all on their laptops working on perfecting the CNN model](photos/IMG_4977.HEIC) |
+| ![Vision subteam, 6 members, all on their laptops working on perfecting the CNN model](photos/IMG_4977.JPG) |
 | :--: |
 | **Vision subteam perfecting the CNN model on Google Colab** |
 
